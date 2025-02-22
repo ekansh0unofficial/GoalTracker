@@ -1,0 +1,6 @@
+{
+  "appTitle": "goal_tracker",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
