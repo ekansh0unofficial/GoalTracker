@@ -1,4 +1,4 @@
-package com.example.goal_tracker
+package com.ekanshmittal.goal_tracker
 
 import io.flutter.embedding.android.FlutterActivity
 
